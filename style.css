@@ -47,7 +47,7 @@ body {
 .cast {
   display: flex;
   gap: 150px;
-  margin-top: 80px;
+  margin-top: 9px;
 }
 
 .cast span {
@@ -117,7 +117,7 @@ footer {
   align-items: center;
   gap: 40px;
   bottom: 20px;
-  left: -40px;
+  left: -110px;
 }
 
 footer i {
